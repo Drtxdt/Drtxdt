@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile banner with name Drtxdt and tech focus areas](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Hi,%20I'm%20Drtxdt&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Python%20%7C%20ROS/ROS2%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=58)
+![Profile banner with name Drtxdt and tech focus areas](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Hi,%20I'm%20Drtxdt&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Python%20%7C%20ROS%20/%20ROS2%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=760&lines=HNU+student+%7C+Robotics+%2B+AI+builder;Focused+on+ROS%2FROS2%2C+CV%2C+Deep+Learning%2C+Model+Training;English-first+bilingual+profile+%7C+中英双语主页)](https://git.io/typing-svg)
 
