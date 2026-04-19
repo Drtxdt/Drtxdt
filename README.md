@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me | 关于我
 
-- 🇬🇧 I’m **Drtxdt**, currently studying at **HNU (Hunan University)**.<br/>
-  🇨🇳 我是 **Drtxdt**，目前就读于 **湖南大学（HNU）**。
-- 🇬🇧 My primary language is **Python**, and I use **C++** for algorithm practice sometimes.<br/>
-  🇨🇳 我的主力语言是 **Python**，偶尔会用 **C++** 刷算法题。
-- 🇬🇧 I focus on **ROS / ROS2**, **Computer Vision**, **Deep Learning**, and **Model Training**.<br/>
-  🇨🇳 目前主攻 **ROS / ROS2**、**计算机视觉**、**深度学习** 和 **模型训练**。
+- I’m **Drtxdt**, currently studying at **HNU (Hunan University)**.<br/>
+  我是 **Drtxdt**，目前就读于 **湖南大学（HNU）**。
+- My primary language is **Python**, and I use **C++** for algorithm practice sometimes.<br/>
+  我的主力语言是 **Python**，偶尔会用 **C++** 刷算法题。
+- I focus on **ROS / ROS2**, **Computer Vision**, **Deep Learning**, and **Model Training**.<br/>
+  目前主攻 **ROS / ROS2**、**计算机视觉**、**深度学习** 和 **模型训练**。
 
 ---
 
@@ -27,36 +27,36 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,opencv,pytorch,linux,bash,git,vue,html,css,js,ts&theme=dark" />
 </p>
 
-- 🇬🇧 Frontend basics: **HTML / CSS / JavaScript**, with initial experience in **Vue**.<br/>
-  🇨🇳 前端基础：**HTML / CSS / JavaScript**，并已初步掌握 **Vue**。
+- Frontend basics: **HTML / CSS / JavaScript**, with initial experience in **Vue**.<br/>
+  前端基础：**HTML / CSS / JavaScript**，并已初步掌握 **Vue**。
 
 ---
 
 ## 🚀 Featured Directions & Repos | 主要方向与仓库
 
-- 🇬🇧 **Computer Vision & Deep Learning**<br/>
+- **Computer Vision & Deep Learning**<br/>
   Projects like `What-is-this-bird`, `Text-Captcha-Destroyer`.
-- 🇬🇧 **Python Tools & Productivity**<br/>
+- **Python Tools & Productivity**<br/>
   Projects like `Vmware-Destroyer`, `jupdf`, `HNU-Script`.
-- 🇬🇧 **Frontend Exploration**<br/>
+- **Frontend Exploration**<br/>
   Projects like `Wonderful-Color`, `YourLaTeX`, `Typora-math-helper`.
-- 🇬🇧 **Knowledge Sharing / Translation**<br/>
+- **Knowledge Sharing / Translation**<br/>
   Projects like `Qt6-book-translation`, `OpenCV5-book-translation`, `Deep-Learning-for-Coders-Chinese-Book`.
 
-- 🇨🇳 **方向概览**：视觉与深度学习、Python 工具开发、前端探索、技术翻译与知识分享。
+- **方向概览**：视觉与深度学习、Python 工具开发、前端探索、技术翻译与知识分享。
 
 ---
 
 ## 📚 Learning Next | 即将学习
 
-- 🇬🇧 **Godot**
-  🇨🇳 **Godot 游戏引擎开发**
-- 🇬🇧 **Rust**
-  🇨🇳 **Rust 系统编程**
-- 🇬🇧 **Advanced Frontend Engineering**
-  🇨🇳 **进阶前端工程化**
-- 🇬🇧 **DevOps**
-  🇨🇳 **运维与 DevOps**
+- **Godot**
+  **Godot 游戏引擎开发**
+- **Rust**
+  **Rust 系统编程**
+- **Advanced Frontend Engineering**
+  **进阶前端工程化**
+- **DevOps**
+  **运维与 DevOps**
 
 ---
 
@@ -71,9 +71,6 @@
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Drtxdt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak card" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Drtxdt&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub achievement trophies" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drtxdt&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
