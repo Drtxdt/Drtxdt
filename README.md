@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Hi,%20I'm%20Drtxdt&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Python%20%7C%20ROS/ROS2%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=58)
+![Header banner showing greeting and technical focus areas](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Hi,%20I'm%20Drtxdt&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Python%20%7C%20ROS/ROS2%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=760&lines=HNU+student+%7C+Robotics+%2B+AI+builder;Focused+on+ROS%2FROS2%2C+CV%2C+Deep+Learning%2C+Model+Training;English-first+bilingual+profile+%7C+中英双语主页)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Drtxdt&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile view counter badge](https://komarev.com/ghpvc/?username=Drtxdt&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -63,20 +63,20 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Drtxdt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drtxdt&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Drtxdt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats card" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drtxdt&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages card" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Drtxdt&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Drtxdt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Drtxdt&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Drtxdt&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub profile achievement trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drtxdt&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drtxdt&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 ---
@@ -87,6 +87,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F7FD5,50:86A8E7,100:91EAE4)
+![Decorative footer wave banner](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F7FD5,50:86A8E7,100:91EAE4)
 
 </div>
