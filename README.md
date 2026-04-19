@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header banner showing greeting and technical focus areas](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Hi,%20I'm%20Drtxdt&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Python%20%7C%20ROS/ROS2%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=58)
+![Animated wave banner saying Hi, I'm Drtxdt with focus areas Python, ROS/ROS2, Computer Vision, and Deep Learning](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Hi,%20I'm%20Drtxdt&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Python%20%7C%20ROS/ROS2%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descSize=16&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=760&lines=HNU+student+%7C+Robotics+%2B+AI+builder;Focused+on+ROS%2FROS2%2C+CV%2C+Deep+Learning%2C+Model+Training;English-first+bilingual+profile+%7C+中英双语主页)](https://git.io/typing-svg)
 
@@ -63,16 +63,16 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Drtxdt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats card" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drtxdt&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages card" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Drtxdt&show_icons=true&theme=tokyonight&hide_border=true" alt="Dynamic GitHub statistics for Drtxdt including commits, stars, and repositories" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drtxdt&layout=compact&theme=tokyonight&hide_border=true" alt="Dynamic top programming languages used by Drtxdt on GitHub" />
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Drtxdt&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Drtxdt&theme=tokyonight&hide_border=true" alt="Dynamic GitHub contribution streak data for Drtxdt including current and longest streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Drtxdt&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub profile achievement trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Drtxdt&theme=tokyonight&no-frame=true&row=1&column=7" alt="Dynamic GitHub achievement trophies for Drtxdt, such as contribution and repository milestones" />
 </div>
 
 <div align="center">
