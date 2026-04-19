@@ -50,11 +50,13 @@
 ## 📚 Learning Next | 即将学习
 
 - 🇬🇧 **Godot**
+  🇨🇳 **Godot 游戏引擎开发**
 - 🇬🇧 **Rust**
+  🇨🇳 **Rust 系统编程**
 - 🇬🇧 **Advanced Frontend Engineering**
+  🇨🇳 **进阶前端工程化**
 - 🇬🇧 **DevOps**
-
-- 🇨🇳 即将学习：**Godot、Rust、进阶前端、运维（DevOps）**。
+  🇨🇳 **运维与 DevOps**
 
 ---
 
